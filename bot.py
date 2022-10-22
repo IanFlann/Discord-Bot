@@ -13,7 +13,7 @@ async def send_messages(message, user_message, is_private):
 
 
 def run_discord_bot():
-    BOT_KEY = ('MTAzMTk3NzEzNTg4OTQ2NTQxNA.GyDoV4.ijJHjIDJ122y5C1ObI55z8z_cHoMc078pRS2Q0')
+    BOT_KEY = ('x')
     print(BOT_KEY)
     intents = discord.Intents.default()
     intents.message_content = True
